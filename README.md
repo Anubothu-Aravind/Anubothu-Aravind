@@ -1,3 +1,4 @@
+<img align="center" alt="Banner" height="200" width="1700" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFxanB4aXpiam0xemc4dXZoZ2gyejBsaHEwaXZzejBhZnNzZzJmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m0nUfB9prqK0kqSLAr/100.webp"> 
 <h1 align="center">Hi 👋, I'm Aravind</h1>
 <h3 align="center">A developer from India</h3>
 
