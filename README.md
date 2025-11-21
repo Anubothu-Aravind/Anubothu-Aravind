@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [LinkedIn/kognitiv club](https://www.linkedin.com/posts/kognitiv-club_aisecurity-aipoisoning-datapoisoning-ugcPost-7158021233257717760-_jPO?utm_source=share&utm_medium=member_desktop)
 
-- 💬 Ask me about **Python,C**
+- 💬 Ask me about **Python,C,SQL**
 
 - 📫 How to reach me **aanubothu@gmail.com**
 
